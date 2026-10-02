@@ -1,8 +1,8 @@
 {
   "pack": {
     "pack_format": 121.0,
-    "description": "Adds some Recipes making crafting faster",
-	"min_format": [121, 0],
-	"max_format": [121, 0]
+    "description": "Allows stripped logs to be turned into regular logs again",
+	  "min_format": [121, 0],
+	  "max_format": [121, 0]
   }
 }
